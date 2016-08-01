@@ -1,4 +1,16 @@
+# We need to modify 
 
+
+# Parameters
+p =  2
+m = 1.5
+Goo = 0.78 # Can't be neg
+Eoo = 5  # Can't be neg
+beta.o = 0.8
+beta.m = 0.2 
+Gmo = 0
+Emo = 0
+Gmm = 
 KLmod <- function(
 m,		# maternal effect on offspring trait
 Goo, 	# additive genetic variance (of offspring trait?)
